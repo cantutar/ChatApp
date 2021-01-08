@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237654697250",
+    "project_id": "chatapp-2a397",
+    "storage_bucket": "chatapp-2a397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237654697250:android:d630c5573011cb6012b17b",
+        "android_client_info": {
+          "package_name": "com.cantutar.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237654697250-urgkm7erafav0illbichqjmaqhbhe1si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW1ytACfSRC_wyMtJ2IoKbRTLgtqn675I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237654697250-urgkm7erafav0illbichqjmaqhbhe1si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
