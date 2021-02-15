@@ -1,3 +1,3 @@
-# chat_app
+# What's up? (chat/messaging app)
 
-Chat app with Flutter but not finished.
+Chat/messaging app with Flutter but not finished.
