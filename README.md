@@ -31,6 +31,6 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Can Tutar](https://github.com/cantutar).<br />
-This project is [MIT](https://github.com/cantutar/IOS-Themed-Javascript-Calculator/blob/master/LICENSE) licensed.
+This project is MIT licensed.
 
 ***
